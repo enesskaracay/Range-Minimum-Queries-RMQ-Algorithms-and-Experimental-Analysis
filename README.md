@@ -1,5 +1,8 @@
 # Range-Minimum-Queries-RMQ-Algorithms-and-Experimental-Analysis
 Range Minimum Queries (RMQ): Algorithms and Experimental Analysis
+![image](https://github.com/user-attachments/assets/7b385f8a-cf5d-48d3-ad4a-2ac960c10057)
+------------------------------
+
 
 
 ![image](https://github.com/user-attachments/assets/0c04f7ff-da2c-4967-9d66-b646adf55f08)
