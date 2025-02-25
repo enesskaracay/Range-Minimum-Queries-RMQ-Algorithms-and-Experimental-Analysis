@@ -1,4 +1,34 @@
 # Range-Minimum-Queries-RMQ-Algorithms-and-Experimental-Analysis
+* Aralık Minimum Sorguları (RMQ): Algoritmalar ve Deneysel Analiz
+
+* Bu projenin temel amacı, Aralık Minimum Sorguları (RMQ) için algoritmaları incelemek ve uygulamaktır. Araştırma yöntemleri kullanmanız beklenmektedir; bunlar arasında literatür taraması yapmak, deneyleri tasarlamak ve gerçekleştirmek, veri toplamak ve sonuçları analiz ederek RMQ çözümlerini araştırmak yer almaktadır.
+
+* Proje Görevleri:
+Problem Tanımı
+
+* RMQ’nun resmi tanımını sağlayın.
+Algoritmalar
+
+* Her yaklaşımın ayrıntılı bir açıklamasını yapın ve teorik performansını analiz edin. Kullanılacak algoritmalar şunlardır:
+- Tüm veriyi önceden hesapla (Precompute all)
+- Seyrek tablo (Sparse table)
+- Bloklama (Blocking)
+- Ön hesaplama yapma (Precompute none)
+- Uygulama
+
+* Algoritmaları Java veya C dilinde uygulayın.
+Deneysel Tasarım
+
+* Her algoritmanın zaman karmaşıklığını ampirik olarak analiz etmek için deneyler tasarlayın ve gerçekleştirin.
+Sonuçlar
+
+* Deneysel sonuçları sunun. Raporunuza performans karşılaştırmalarını görselleştirmek için grafikler, tablolar ve diyagramlar ekleyebilirsiniz.
+Sonuç
+
+* Karşılaştırmalı analizden elde edilen temel bulguları özetleyin.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 Range Minimum Queries (RMQ): Algorithms and Experimental Analysis
 ![image](https://github.com/user-attachments/assets/7b385f8a-cf5d-48d3-ad4a-2ac960c10057)
 ------------------------------
