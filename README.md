@@ -3,29 +3,29 @@
 
 * Bu projenin temel amacı, Aralık Minimum Sorguları (RMQ) için algoritmaları incelemek ve uygulamaktır. Araştırma yöntemleri kullanmanız beklenmektedir; bunlar arasında literatür taraması yapmak, deneyleri tasarlamak ve gerçekleştirmek, veri toplamak ve sonuçları analiz ederek RMQ çözümlerini araştırmak yer almaktadır.
 
-* Proje Görevleri:
+ Proje Görevleri:
 Problem Tanımı
 
-* RMQ’nun resmi tanımını sağlayın.
+ RMQ’nun resmi tanımını sağlayın.
 Algoritmalar
 
-* Her yaklaşımın ayrıntılı bir açıklamasını yapın ve teorik performansını analiz edin. Kullanılacak algoritmalar şunlardır:
+Her yaklaşımın ayrıntılı bir açıklamasını yapın ve teorik performansını analiz edin. Kullanılacak algoritmalar şunlardır:
 - Tüm veriyi önceden hesapla (Precompute all)
 - Seyrek tablo (Sparse table)
 - Bloklama (Blocking)
 - Ön hesaplama yapma (Precompute none)
 - Uygulama
 
-* Algoritmaları Java veya C dilinde uygulayın.
+ Algoritmaları Java veya C dilinde uygulayın.
 Deneysel Tasarım
 
-* Her algoritmanın zaman karmaşıklığını ampirik olarak analiz etmek için deneyler tasarlayın ve gerçekleştirin.
+ Her algoritmanın zaman karmaşıklığını ampirik olarak analiz etmek için deneyler tasarlayın ve gerçekleştirin.
 Sonuçlar
 
-* Deneysel sonuçları sunun. Raporunuza performans karşılaştırmalarını görselleştirmek için grafikler, tablolar ve diyagramlar ekleyebilirsiniz.
+  Deneysel sonuçları sunun. Raporunuza performans karşılaştırmalarını görselleştirmek için grafikler, tablolar ve diyagramlar ekleyebilirsiniz.
 Sonuç
 
-* Karşılaştırmalı analizden elde edilen temel bulguları özetleyin.
+Karşılaştırmalı analizden elde edilen temel bulguları özetleyin.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
